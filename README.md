@@ -46,11 +46,15 @@ taller-seguridad-alimentaria/
 ├── notebooks/
 │   └── analisis.ipynb  
 ├── resultados/
+|
 │   ├── resultados.csv
-│   ├── graficos
-│       └──grafico_correlaciones.png
+|
+│   ├── graficos/
+│       
+|        └──grafico_correlaciones.png
 └── informe/
-    ├── Informe.pdf
+   
+    └──Informe.pdf
     └── Capturas de pantalla.pdf
 
 ---
