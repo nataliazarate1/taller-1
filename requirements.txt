@@ -1,0 +1,6 @@
+pandas==2.2.2
+numpy==1.26.4
+tabula-py==2.10.0
+pdfplumber==0.11.9
+camelot-py==1.0.9
+dbfread==2.0.7

@@ -1,0 +1,9 @@
+# Ignorar carpeta de datos grandes
+datos_dane/
+
+# Ignorar entorno virtual
+venv/
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.pyc 
