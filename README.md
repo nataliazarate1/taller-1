@@ -19,7 +19,7 @@ El enfoque principal es generar información útil para apoyar la toma de decisi
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/nataliazarate1/taller-seguridad-alimentaria.git
+git clone https://github.com/nataliazarate1/taller-1.git
 cd taller-seguridad-alimentaria
 
 # Descargar los datos (enlaces)
@@ -38,7 +38,8 @@ docker-compose up
 
 ├── Dockerfile                   
 ├── docker-compose.yml           
-├── requirements.txt             
+├── requirements.txt
+├── .gitignore
 ├── datos/                       
 │   └── Carpetas DANE              
 ├── notebooks/
