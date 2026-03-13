@@ -36,8 +36,6 @@ docker-compose up
 
 ## Estructura de carpetas 
 
-taller-seguridad-alimentaria/
-├── README.md                    
 ├── Dockerfile                   
 ├── docker-compose.yml           
 ├── requirements.txt             
@@ -46,16 +44,12 @@ taller-seguridad-alimentaria/
 ├── notebooks/
 │   └── analisis.ipynb  
 ├── resultados/
-|
 │   ├── resultados.csv
-|
-│   ├── graficos/
-│       
-|        └──grafico_correlaciones.png
+│   └── graficos/
+│       └── grafico_correlaciones.png
 └── informe/
-   
-    └──Informe.pdf
-    └── Capturas de pantalla.pdf
+    ├── Informe.pdf
+    └── Capturas_de_pantalla.pdf
 
 ---
 
